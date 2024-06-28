@@ -11,6 +11,8 @@ https://youtu.be/X7CC5jrgazo
 
 KV或R2变量名：`SUB_BUCKET`
 
+自定义远端地址：`REMOTE_CONFIG
+
 ### 支持反代转换的协议
  - shadowsocks
  - shadowsocksR
